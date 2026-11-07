@@ -61,7 +61,6 @@ I'm working on projects that help me apply what I learn and develop real-world e
 |---|---|
 | CareerCopilot | An AI-powered career assistant for resume analysis and internship discovery. |
 | Engineering 60 | A learning platform focused on understanding and explaining engineering concepts. |
-| VeriTrust AI | An AI-powered document review and compliance checking prototype. |
 
 ---
 
